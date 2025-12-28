@@ -57,3 +57,11 @@ Makefile
 # OS files
 .DS_Store
 Thumbs.db
+
+# Code::Blocks
+*.cbp
+*.depend
+
+# Build folders
+bin/
+obj/
