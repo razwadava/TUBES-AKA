@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1766914660 source:c:\users\asus\analisisbilangansempurnaiteratifrekursif\iterative.cpp
+	"perfect_number.h"
+
+1766914660 c:\users\asus\analisisbilangansempurnaiteratifrekursif\perfect_number.h
+	<iostream>
+
+1766914660 source:c:\users\asus\analisisbilangansempurnaiteratifrekursif\main.cpp
+	<iostream>
+	"perfect_number.h"
+
+1766914660 source:c:\users\asus\analisisbilangansempurnaiteratifrekursif\recursive.cpp
+	"perfect_number.h"
+
